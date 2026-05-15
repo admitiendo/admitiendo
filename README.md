@@ -1,10 +1,5 @@
 # 💫 About Me:
-🔭 I’m not currently working on any project.<br>🌱 I’m currently learning Java.
-
-
-## 🌐 Socials:
-[Instagram](https://www.instagram.com/admitiendo)
-
+🔭 I’m not currently working on any project.<br>🌱 Java Developer since 2020.
 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)	[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
